@@ -1,0 +1,7 @@
+selenium
+pywinauto
+pytest
+pytest-html
+pytest-xdist
+pyperclip
+requests
