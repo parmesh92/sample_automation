@@ -1,4 +1,4 @@
-# HP Smart Desktop Automation Framework
+# HP Smart Automation Framework
 
 This repository contains a full E2E automation framework for:
 
